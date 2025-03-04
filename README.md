@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpan Shrestha</h1>
-<h3 align="center">A passionate Web Developer from Nepal</h3>
+<h3 align="center">🚀 Web Development Enthusiast from Nepal | Building the Web, One Line of Code at a Time!</h3>
 
 - 🌱 I’m currently learning **Docker and Kubernetes, React and Redux**
 
